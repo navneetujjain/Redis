@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "net": "^1.0.2",
+    "redis-parser": "^3.0.0"
+  }
+}
